@@ -1,0 +1,1 @@
+var json_activity_3987881301waypoints_1 = {"type":"FeatureCollection","name":"activity_3987881301waypoints_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
